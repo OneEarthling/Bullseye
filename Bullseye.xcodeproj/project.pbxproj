@@ -11,6 +11,7 @@
 		CE183138270325A900393693 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE183137270325A900393693 /* ContentView.swift */; };
 		CE18313A270325AA00393693 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE183139270325AA00393693 /* Assets.xcassets */; };
 		CE18313D270325AA00393693 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE18313C270325AA00393693 /* Preview Assets.xcassets */; };
+		CEA326E72722F03900E7A03B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA326E62722F03900E7A03B /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CE183139270325AA00393693 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE18313C270325AA00393693 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE18313E270325AA00393693 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA326E62722F03900E7A03B /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CE183135270325A900393693 /* BullseyeApp.swift */,
 				CE183137270325A900393693 /* ContentView.swift */,
+				CEA326E62722F03900E7A03B /* AboutView.swift */,
 				CE183139270325AA00393693 /* Assets.xcassets */,
 				CE18313E270325AA00393693 /* Info.plist */,
 				CE18313B270325AA00393693 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE183138270325A900393693 /* ContentView.swift in Sources */,
+				CEA326E72722F03900E7A03B /* AboutView.swift in Sources */,
 				CE183136270325A900393693 /* BullseyeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
